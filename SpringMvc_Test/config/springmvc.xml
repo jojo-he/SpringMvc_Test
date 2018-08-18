@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml-body>
+<web-app version="2.4"
+	xmlns="http://java.sun.com/xml/ns/j2ee"
 
 </xml-body>
